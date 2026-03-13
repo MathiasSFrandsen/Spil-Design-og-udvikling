@@ -6,7 +6,7 @@ public class CharacterInteraction : MonoBehaviour
     private PlayerInput _playerInput;
     
     public bool isInteractableNear;
-    //Interactable interactable;
+    Interactable interactable;
 
     void Awake()
     {
