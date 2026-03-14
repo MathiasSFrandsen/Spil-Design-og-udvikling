@@ -2790,7 +2790,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8735270386568740072, guid: e83f8343a42814c369e6645f329c6538, type: 3}
       propertyPath: m_Name
-      value: Ratty Boy
+      value: Ratty
       objectReference: {fileID: 0}
     - target: {fileID: 8735270386568740072, guid: e83f8343a42814c369e6645f329c6538, type: 3}
       propertyPath: m_TagString
